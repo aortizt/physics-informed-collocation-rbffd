@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the exact archived software version used, together with the associated paper."
+title: "Physics-informed collocation for elliptic interface problems"
+type: software
+authors:
+  - family-names: "Ortiz-Tapia"
+    given-names: "Arturo"
+    orcid: "https://orcid.org/0000-0001-5199-7670"
+  - family-names: "Díaz-Viera"
+    given-names: "Martín Alberto"
+    orcid: "https://orcid.org/0000-0001-5811-6186"
+repository-code: "https://github.com/aortizt/physics-informed-collocation-rbffd"
+url: "https://doi.org/10.5281/zenodo.22730371"
+version: "1.1.0"
+# This is prepared release metadata; publish only with the matching v1.1.0 release.
+# The existing software DOI 22850313 identifies v1.0.0, not this update.
+# Add the new version DOI after Zenodo creates it. No new DOI is invented here.
+# License omitted pending reconciliation of GitHub and Zenodo declarations.
